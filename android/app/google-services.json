@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661679992101",
+    "firebase_url": "https://shri-somnath.firebaseio.com",
+    "project_id": "shri-somnath",
+    "storage_bucket": "shri-somnath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661679992101:android:9ab5ca6da187467a",
+        "android_client_info": {
+          "package_name": "com.somnathgarments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661679992101-rgf4fh0rfq9cmdep8dh6cio8vcfroenk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFDNl5UAoAmxpOw93R6n0l8iln0BmxzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661679992101-rgf4fh0rfq9cmdep8dh6cio8vcfroenk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
