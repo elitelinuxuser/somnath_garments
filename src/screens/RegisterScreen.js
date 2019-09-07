@@ -19,7 +19,7 @@ import {
   Toast,
   Root
 } from "native-base";
-import facebook from "../assets/images/facebook.png";
+import somnath from "../assets/images/somnath.png";
 import auth from "@react-native-firebase/auth";
 
 const styles = StyleSheet.create({
@@ -103,8 +103,13 @@ export default class LoginScreen extends Component {
           <Content>
             <View style={{ alignItems: "center", marginBottom: 50 }}>
               <Image
-                source={facebook}
-                style={{ width: 50, height: 50, marginBottom: 8 }}
+                source={somnath}
+                resizeMode="contain"
+                style={{
+                  width: 60,
+                  height: 120,
+                  marginBottom: 8
+                }}
               />
               <H1>Somnath</H1>
             </View>
